@@ -12,6 +12,8 @@
     "unordered_map": "cpp",
     "utility": "cpp",
     "hashtable": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "iosfwd": "cpp",
+    "iostream": "cpp"
   }
 }
